@@ -11,6 +11,7 @@ public class TestUnity : MonoBehaviour
     void Update()
     {
         Debug.Log("Работает. Hello world!");
+       
         
     }
 }
