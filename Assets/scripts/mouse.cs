@@ -12,7 +12,6 @@ public class mouse : MonoBehaviour
     {
         _camera = GetComponentInChildren<Camera>();
 
-        
         float minY = -45.0f;
         float maxY = 45.0f;
 
